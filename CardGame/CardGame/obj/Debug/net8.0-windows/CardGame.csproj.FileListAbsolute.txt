@@ -1,0 +1,16 @@
+C:\Users\Train\source\repos\CardGame\CardGame\bin\Debug\net8.0-windows\CardGame.exe
+C:\Users\Train\source\repos\CardGame\CardGame\bin\Debug\net8.0-windows\CardGame.deps.json
+C:\Users\Train\source\repos\CardGame\CardGame\bin\Debug\net8.0-windows\CardGame.runtimeconfig.json
+C:\Users\Train\source\repos\CardGame\CardGame\bin\Debug\net8.0-windows\CardGame.dll
+C:\Users\Train\source\repos\CardGame\CardGame\bin\Debug\net8.0-windows\CardGame.pdb
+C:\Users\Train\source\repos\CardGame\CardGame\obj\Debug\net8.0-windows\CardGame.Form1.resources
+C:\Users\Train\source\repos\CardGame\CardGame\obj\Debug\net8.0-windows\CardGame.csproj.GenerateResource.cache
+C:\Users\Train\source\repos\CardGame\CardGame\obj\Debug\net8.0-windows\CardGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Train\source\repos\CardGame\CardGame\obj\Debug\net8.0-windows\CardGame.AssemblyInfoInputs.cache
+C:\Users\Train\source\repos\CardGame\CardGame\obj\Debug\net8.0-windows\CardGame.AssemblyInfo.cs
+C:\Users\Train\source\repos\CardGame\CardGame\obj\Debug\net8.0-windows\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\Train\source\repos\CardGame\CardGame\obj\Debug\net8.0-windows\CardGame.dll
+C:\Users\Train\source\repos\CardGame\CardGame\obj\Debug\net8.0-windows\refint\CardGame.dll
+C:\Users\Train\source\repos\CardGame\CardGame\obj\Debug\net8.0-windows\CardGame.pdb
+C:\Users\Train\source\repos\CardGame\CardGame\obj\Debug\net8.0-windows\CardGame.genruntimeconfig.cache
+C:\Users\Train\source\repos\CardGame\CardGame\obj\Debug\net8.0-windows\ref\CardGame.dll
