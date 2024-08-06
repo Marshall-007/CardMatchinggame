@@ -4,7 +4,7 @@ namespace CardGame
     {
         // firstClicked points to the first Label control 
         // that the player clicks, but it will be null 
-        // if the player hasn't clicked a label yet
+       
         Label firstClicked = null;
 
         // secondClicked points to the second Label control 
@@ -1033,7 +1033,7 @@ namespace CardGame
                 }
             }
 
-            // If the loop didn’t return, it didn't find
+            // If the loop didnÂ’t return, it didn't find
             // any unmatched icons
             // That means the user won. Show a message and close the form
             MessageBox.Show("You matched all the icons!", "Congratulations!!!",MessageBoxButtons.OK,MessageBoxIcon.Information);
